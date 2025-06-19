@@ -7,6 +7,7 @@ public class Menu {
 		System.out.println("version 1.0_A");
 		System.out.println("versión 1.1_A_JFL");
 		System.out.println("version 1.2_A_JFL");
+		System.out.println("version 2.0_JFL");
 
 	}
 
